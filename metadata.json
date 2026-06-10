@@ -1,0 +1,6 @@
+{
+  "name": "EduPlan AI",
+  "description": "초등학교 교사 및 예비교사를 위한 AI 기반 수업 지도안 생성 및 관리 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
